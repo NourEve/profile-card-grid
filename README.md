@@ -5,6 +5,12 @@
 * en date du 17 novembre 2022 ;
 * dans le cadre de la formation BeCode.
 
+
+## Lien vers le repository principal :
+* https://github.com/NourEve/profile-card
+## Lien vers le repository avec flexbox :
+* https://github.com/NourEve/profile-card-flexbox
+
 ## Contenu du repository:
 
 *  les pages html et css ;
